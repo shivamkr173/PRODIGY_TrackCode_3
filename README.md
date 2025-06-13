@@ -1,4 +1,7 @@
 // === README.md ===
+# 🛒 PRODIGY TrackCode Task 3 - E-Commerce Fullstack App
+
+A responsive and functional fullstack e-commerce platform built as part of the PRODIGY TrackCode internship. Features include product listings, add-to-cart system, and API integration with MongoDB backend.
 # 🛒 E-Commerce Fullstack App
 
 A full-stack e-commerce application built using **React**, **Node.js**, **Express**, and **MongoDB**. This project includes product listings, shopping cart functionality, and backend APIs with session handling.
